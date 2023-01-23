@@ -121,7 +121,7 @@
     (Descargamos e instalamos el php con el siguiente comando)
 ![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/39.png)
 
-    (Se nos abre este selccinador, elegimos 'apache2')
+    (Se nos abre este seleccionador, elegimos 'apache2')
 ![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/40.png)
 
 ![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/41.png)
@@ -145,52 +145,32 @@
 
 ![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/48.png)
 
+## Preguntas finales ##
 
+### 1. Directorio de instalación base. Investigarlo, hacer comprobaciones y demostrarlo con capturas. Ejecutar este comando: sudo mysqladmin -u root -p shutdown. Explicar lo que sucede. ###
 
+    (directorio de instalación base)
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/1.png)
 
+    (Al ejecutar este comando lo que hace es parar el servicio.)
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/1.2.png)
 
+### 2. Directorio del servicio o proceso demonio, directorio de registros de mysql (0,5 ptos). ###
 
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/2.png)
 
+### 3. Directorio de datos. ###
 
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/3.png)
 
+### 4.Fichero de configuración del servidor y su ubicación ##
 
+  (Fichero de configuración del servidor)
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/4.png)
 
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/4.2.png)
 
+### 5. ¿Quién es el usuario propietario de las Base de Datos ? ##
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    (Aquí se encuentra)
+![image](https://github.com/christianjmx/ADE_christian/blob/main/Recuperaci%C3%B3n%20UD1/IMG/preguntas%20del%20final/5.png)
